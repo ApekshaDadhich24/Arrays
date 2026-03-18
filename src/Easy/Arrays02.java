@@ -1,4 +1,5 @@
 // second largest number of array
+
 package Easy;
 import java.sql.SQLOutput;
 public class Arrays02 {
@@ -23,7 +24,7 @@ public class Arrays02 {
         System.out.println(secondLargest);
     }
     public static void main(String[] args) {
-        int []arr = {7,7,7};
+        int []arr = {7,7,7}; //change array for any other test case
         secondLargestNum(arr);
     }
 }
