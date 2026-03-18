@@ -1,8 +1,6 @@
 // second largest number of array
 package Easy;
-
 import java.sql.SQLOutput;
-
 public class Arrays02 {
     static void secondLargestNum(int[]arr) {
         int largest = Integer.MIN_VALUE;
