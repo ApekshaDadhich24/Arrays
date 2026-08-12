@@ -1,6 +1,6 @@
 //Move zeroes to end such that the relative position of other elements is unaltered
 
-package Easy;
+package ARRAYS.EASY;
 import java.util.Arrays;
 public class Arrays09 {
 

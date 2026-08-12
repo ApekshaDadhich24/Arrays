@@ -1,7 +1,7 @@
 // Left rotate array by one
 
-package Easy;
-import java.util.Arrays;
+package ARRAYS.EASY;
+
 public class Arrays06 {
 
     static int[] leftRotate(int[] arr) {

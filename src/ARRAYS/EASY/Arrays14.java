@@ -1,6 +1,6 @@
 // find the missing number -- brute force
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays14 {
 
     static void missingNumber(int [] nums){

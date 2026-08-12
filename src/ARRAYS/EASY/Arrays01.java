@@ -1,6 +1,6 @@
 // find the larget element in the array
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays01 {
 
     static int largestNum(int[]arr){

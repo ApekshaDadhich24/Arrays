@@ -1,6 +1,6 @@
 //Intersection of two arrays -- brute force
 
-package Easy;
+package ARRAYS.EASY;
 import java.util.ArrayList;
 import java.util.List;
 public class Arrays13 {

@@ -1,6 +1,6 @@
 //Maximum consecutive ones
 
-package Easy;
+package ARRAYS.EASY;
 
 public class Arrays17 {
 

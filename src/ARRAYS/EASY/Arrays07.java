@@ -1,6 +1,6 @@
 //left rotate by k places
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays07 {
 
     static void rotateArray(int[] nums, int k) {

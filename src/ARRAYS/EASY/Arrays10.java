@@ -1,6 +1,6 @@
 // Linear Search
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays10 {
 
     static void linearSearch(int[]nums,int target){

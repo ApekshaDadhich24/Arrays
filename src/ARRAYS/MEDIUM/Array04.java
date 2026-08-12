@@ -1,6 +1,6 @@
 // sort the number if zeroes , ones and twos
 
-package Medium;
+package ARRAYS.MEDIUM;
 import java.util.Arrays;
 public class Array04 {
     static void sortArray(int[]arr){

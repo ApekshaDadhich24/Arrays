@@ -1,6 +1,6 @@
 //union of two sorted arrays -- brute force
 
-package Easy;
+package ARRAYS.EASY;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;

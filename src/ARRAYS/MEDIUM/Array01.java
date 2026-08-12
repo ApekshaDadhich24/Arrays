@@ -1,6 +1,6 @@
 //two sum using hashmap
 
-package Medium;
+package ARRAYS.MEDIUM;
 import java.util.*;
 public class Array01 {
 

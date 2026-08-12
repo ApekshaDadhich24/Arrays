@@ -1,6 +1,6 @@
 //missing number --xor appraoch
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays16 {
 
     static int missingvalue(int[]nums){

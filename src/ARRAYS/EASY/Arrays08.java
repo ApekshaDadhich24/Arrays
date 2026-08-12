@@ -1,6 +1,6 @@
 // optimal approach for left rotate array
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays08 {
 
     static void reverse(int []arr,int start ,int end){

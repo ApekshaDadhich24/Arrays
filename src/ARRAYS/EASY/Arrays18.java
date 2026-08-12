@@ -1,6 +1,6 @@
 //max consecutive ones -- most optimal appraoch
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays18 {
 
     static int maxConsecutive(int[]nums){

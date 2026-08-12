@@ -1,6 +1,6 @@
 // two sum - most optimal approach
 
-package Medium;
+package ARRAYS.MEDIUM;
 import java.util.*;
 public class Array02 {
 

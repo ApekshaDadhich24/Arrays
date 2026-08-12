@@ -1,5 +1,5 @@
 //right rotate array by one place
-package Easy;
+package ARRAYS.EASY;
 public class Arrays05 {
 
     static void rightRotate(int[]arr){

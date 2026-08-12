@@ -1,6 +1,6 @@
 //union of two sorted arrays -- optimal approach
 
-package Easy;
+package ARRAYS.EASY;
 
 import java.util.*;
 

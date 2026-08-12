@@ -1,6 +1,6 @@
 // missing number optimal approach (sum)
 
-package Easy;
+package ARRAYS.EASY;
 public class Arrays15 {
 
     static void missingvalue(int []nums){

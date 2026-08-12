@@ -1,6 +1,6 @@
 // check if the array is sorted
 
-package Easy;
+package ARRAYS.EASY;
 
 public class Arrays03 {
     static int checkSorted(int[] arr) {

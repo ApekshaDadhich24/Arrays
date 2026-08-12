@@ -1,6 +1,6 @@
 // sort an arrays of 0's , 1's and 2's.
 
-package Medium;
+package ARRAYS.MEDIUM;
 import java.util.Arrays;
 public class Array03 {
 

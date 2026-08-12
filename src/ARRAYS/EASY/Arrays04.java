@@ -1,6 +1,6 @@
 //Remove duplicates from the array
 
-package Easy;
+package ARRAYS.EASY;
 import java.util.ArrayList;
 public class Arrays04 {
     static int removeDuplicate(int[]nums){
